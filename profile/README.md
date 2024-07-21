@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/51ef1279-169a-4a8a-bad8-e083fc90b435)# 東京工業大学デジタル創作同好会traP
+# 東京工業大学デジタル創作同好会traP
 
 traPについての詳細は https://trap.jp/about をご覧ください。
 

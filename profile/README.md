@@ -14,3 +14,4 @@ Service | Description | Blog | Repositories
 **Emoine** | 部内ライブツール | [🔗](https://trap.jp/post/1093/) | [Emoine](https://github.com/traPtitech/Emoine)
 **traP Collection** | 成果物ランチャー | | [trap-collection-launcher](https://github.com/traPtitech/trap-collection-launcher) / [trap-collection-server](https://github.com/traPtitech/trap-collection-server) / [trap-collection-admin](https://github.com/traPtitech/trap-collection-admin)
 **traPortfolio** | 部員用ポートフォリオサービス | [🔗](https://trap.jp/post/2262/) | [traPortfolio](https://github.com/traPtitech/traPortfolio) / [traPortfolio-UI](https://github.com/traPtitech/traPortfolio-UI) / [traPortfolio-Dashboard](https://github.com/traPtitech/traPortfolio-Dashboard)
+**rucQ**|合宿管理用ツール||[rucQ](https://github.com/traPtitech/rucQ) / [rucQ-Admin](https://github.com/traPtitech/rucQ-Admin) / [rucQ-UI](https://github.com/traPtitech/rucQ-UI)
